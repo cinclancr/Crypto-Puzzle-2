@@ -1,0 +1,531 @@
+{
+  "created_utc_date": "2026-11-23",
+  "purpose": "raw videos, historical measurements and derived local evidence provenance",
+  "local_sources": [
+    {
+      "path": "local_sources/figures/Puzzle1_solution_frame_0726.png",
+      "filename": "Puzzle1_solution_frame_0726.png",
+      "bytes": 537209,
+      "sha256": "15b9404d5393e0407fced6a3a562bbde42bb27c88299136d7275f07db2e432f2",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/Puzzle1_solution_frame_0727.png",
+      "filename": "Puzzle1_solution_frame_0727.png",
+      "bytes": 563625,
+      "sha256": "6f1774da35638eb24aa25666bec123cedb85c50277032dd92c82ea5091a73563",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/Puzzle1_solution_frame_0728.png",
+      "filename": "Puzzle1_solution_frame_0728.png",
+      "bytes": 430132,
+      "sha256": "67695637752b4e5af21e76ed25bbf133235e514b46df9bdf3af97557d9c45557",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/Puzzle1_solution_frame_0729.png",
+      "filename": "Puzzle1_solution_frame_0729.png",
+      "bytes": 397869,
+      "sha256": "2447770eb410604e58824e3d4337ad053cefc5fb00f829c90243de19d936fb96",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/audit_puzzle2_seam_visual.png",
+      "filename": "audit_puzzle2_seam_visual.png",
+      "bytes": 72374,
+      "sha256": "eb1cacf835ddb6d10077973c5ef72cfba600d71594f2ceabbb36d882dcadcb5c",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_c8_calibracion_comparacion.png",
+      "filename": "crypto2_c8_calibracion_comparacion.png",
+      "bytes": 20044,
+      "sha256": "b2667aea82edbc5bb4f9ccb12593bd289d4fcb1b38b13ba8472fd99305bf7add",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_comparacion_capas_originales.png",
+      "filename": "crypto2_comparacion_capas_originales.png",
+      "bytes": 18043,
+      "sha256": "3f475e22b2ba63dd21d1ea872d7c63f5b6ec5a4d8d45a29858fc182f15aeea36",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_franjas_exclusivas_ilustradas.png",
+      "filename": "crypto2_franjas_exclusivas_ilustradas.png",
+      "bytes": 137598,
+      "sha256": "f984838a51ddee8fb501e0117e0e46db3c5bb9299c1671d9fe2635929516e330",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_joined_raw_C_A.png",
+      "filename": "crypto2_joined_raw_C_A.png",
+      "bytes": 23348,
+      "sha256": "a1f57955b636fd2dd55c46c0bef53be15b9d4ac95fb8ef121ce630660246971f",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_original_sample_montage.png",
+      "filename": "crypto2_original_sample_montage.png",
+      "bytes": 1458718,
+      "sha256": "0540d8391f86b2bfa38513278e26443bd9986da8fbabce94dfff3fd837a1d09f",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/crypto2_raw_six_glyphs.png",
+      "filename": "crypto2_raw_six_glyphs.png",
+      "bytes": 41967,
+      "sha256": "813619ec6a9db47c535b9abbb7caa1ba2c3bf8428a1e0a559e46c3ce02aa026b",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/grafico_19_fotogramas.png",
+      "filename": "grafico_19_fotogramas.png",
+      "bytes": 73877,
+      "sha256": "b954525f0c7ba55e16ea90ebcffdd0a769496629e3bb916c642514c69a800d74",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/p1_10_glifos_reconstruidos.png",
+      "filename": "p1_10_glifos_reconstruidos.png",
+      "bytes": 20059,
+      "sha256": "682dc581c440bdd437ff15d73ad5659a7ae47341701e676261e134c54743ec1f",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/p2_union_interseccion.png",
+      "filename": "p2_union_interseccion.png",
+      "bytes": 10410,
+      "sha256": "0b324645c991ea08bbe77802f8aa2c4370aad516f356cc26d456e93e2aa4b01d",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle2_B_vs_D_audit.png",
+      "filename": "puzzle2_B_vs_D_audit.png",
+      "bytes": 28038,
+      "sha256": "bde1d3a81af2e6d8412caf0b8b67b08e221ac5aeec511361c7cf761e1bff60c5",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle2_audio_evidencia.png",
+      "filename": "puzzle2_audio_evidencia.png",
+      "bytes": 135977,
+      "sha256": "4160f941632536a32eaf0f1fcde67267dfaeef3224342a0c51cbefcf9ff0787d",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle2_confirmacion_10_repetidos.png",
+      "filename": "puzzle2_confirmacion_10_repetidos.png",
+      "bytes": 21695,
+      "sha256": "8dab75ed133408d3bb4856e8e001b3df962d07d0cffcbefbb63ee61fe9919ada",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle2_evidencia_recortes.png",
+      "filename": "puzzle2_evidencia_recortes.png",
+      "bytes": 167102,
+      "sha256": "ef7dce71d98d57786296005df1685b89543e5f5078bc9b813d3723faef6dee8c",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle2_strong_difference_heatmap.png",
+      "filename": "puzzle2_strong_difference_heatmap.png",
+      "bytes": 13688,
+      "sha256": "c33eb65cd85d1128dd2f40e158e1deb59985b91918cbb87c0786bdc5132faf5d",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/puzzle_captura_vs_video.png",
+      "filename": "puzzle_captura_vs_video.png",
+      "bytes": 436834,
+      "sha256": "eec828b2dae538223d6075fcc9261110cf1f417dd680627cf4576831fdc65d67",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/figures/source_727.png",
+      "filename": "source_727.png",
+      "bytes": 563625,
+      "sha256": "6f1774da35638eb24aa25666bec123cedb85c50277032dd92c82ea5091a73563",
+      "category": "figures"
+    },
+    {
+      "path": "local_sources/measurements/audit_puzzle2_fontblind_results.csv",
+      "filename": "audit_puzzle2_fontblind_results.csv",
+      "bytes": 4748,
+      "sha256": "b5ef09e9ff249438204182c946e635a81ddf6bd5bf37612398f7ba2f70810e46",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/audit_puzzle2_seam_lags.csv",
+      "filename": "audit_puzzle2_seam_lags.csv",
+      "bytes": 2333,
+      "sha256": "1e2c492413b1663bec2e61491bfabde86bac429500c9fd877cb0a6ea1e31a6f1",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_C8_calibrated_column_results.csv",
+      "filename": "crypto2_C8_calibrated_column_results.csv",
+      "bytes": 392,
+      "sha256": "817ea96c79cb6ff5db3478f78a18e94e23682e59aad284fe95661afe02e6b6c2",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_barrido_geometrias_5vs6.csv",
+      "filename": "crypto2_barrido_geometrias_5vs6.csv",
+      "bytes": 4043708,
+      "sha256": "5a2873cb0d2d9d5dabe0fb20c6cb8ae8b9940abe0fbb2725a3c0325e888fa6c8",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_ciclos_rle.csv",
+      "filename": "crypto2_ciclos_rle.csv",
+      "bytes": 651,
+      "sha256": "57417c5b3398c56663a6984b1423362d09eadc9011793966e672e8cfdd6d99f6",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_ciclos_scores.csv",
+      "filename": "crypto2_ciclos_scores.csv",
+      "bytes": 5654,
+      "sha256": "deb33a6e5351963ce7bc26172d40e1cfe0eba234516b2b77b16f7a46edef212b",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_comparativa_4vs6.csv",
+      "filename": "crypto2_comparativa_4vs6.csv",
+      "bytes": 3520,
+      "sha256": "6a30f705f1f810daad5c140e8494ee31761d35556b52d011d850bbffc4716d0c",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_comparativa_5_7_8.csv",
+      "filename": "crypto2_comparativa_5_7_8.csv",
+      "bytes": 2066,
+      "sha256": "4924d5d493b21a0ac878f7a69017ffe5e04bd5dbd7ae2a0a6d8eb6b5e7ca61cc",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_font_calibration.csv",
+      "filename": "crypto2_font_calibration.csv",
+      "bytes": 235066,
+      "sha256": "1914070a02474802c1c63417984017b167d18cabd4720a422a960e4338c34299",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_fonts_result.csv",
+      "filename": "crypto2_fonts_result.csv",
+      "bytes": 402,
+      "sha256": "7b630a222cd4fac6772e9887dfb95000cd7670f68316809f1ea0f1e016efaa7c",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_glyph_uncertainty.csv",
+      "filename": "crypto2_glyph_uncertainty.csv",
+      "bytes": 567,
+      "sha256": "89f758e31741a5fedae654dd3d344013929024db001003040b8a4dd1fd606004",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_prueba_region_exclusiva_5vs6.csv",
+      "filename": "crypto2_prueba_region_exclusiva_5vs6.csv",
+      "bytes": 3314,
+      "sha256": "30bc13140dd6d0c7c931906f5f8c7f81c1b199712959a1de86ac64276d7c6f8b6",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_resultados_franjas_no_superpuestas.csv",
+      "filename": "crypto2_resultados_franjas_no_superpuestas.csv",
+      "bytes": 2912,
+      "sha256": "4715dc38bac662ee26a7f0597ead552cf80d6351628257ff3e7db82f6e61752b",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/crypto2_validacion_excluyendo_pos4.csv",
+      "filename": "crypto2_validacion_excluyendo_pos4.csv",
+      "bytes": 7253,
+      "sha256": "a2e50e804ff700046a93976ce647cd909f403d71e3dcc5cec2307710f684b082",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/independent_layers.csv",
+      "filename": "independent_layers.csv",
+      "bytes": 572,
+      "sha256": "c226926b0fde9fd9bdf7384edc366b1728874491779a3d05853c6d627bd76412",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/paired_shape_test.csv",
+      "filename": "paired_shape_test.csv",
+      "bytes": 2142,
+      "sha256": "59f2608007a9580c651f36fb78977608a9e8c9b0775ef35df566b81fa5e4571e",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/measurements/puzzle2_audio_timing_frames.jpg",
+      "filename": "puzzle2_audio_timing_frames.jpg",
+      "bytes": 326386,
+      "sha256": "b6971432f89e866be9d87935907ae508f8492424bd0217cedff1d2cb748952e3",
+      "category": "measurements"
+    },
+    {
+      "path": "local_sources/previous_reports/INFORME_2026_11_23.md",
+      "filename": "INFORME_2026_11_23.md",
+      "bytes": 4305,
+      "sha256": "f32cb3dd3407fd98d40909f174634626c9a64b712eb878a676fcc3bd7e1fcb5c",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/INFORME_CRYPTO_PUZZLE2_ENSAMBLE_DIRECTO_2026-11-23.md",
+      "filename": "INFORME_CRYPTO_PUZZLE2_ENSAMBLE_DIRECTO_2026-11-23.md",
+      "bytes": 4102,
+      "sha256": "daccae3538e5582c63877cc7d28aa0cd127117875c1e11cf4279aadbaac6407c",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto2_avance_fuente_C8_23nov2026.md",
+      "filename": "crypto2_avance_fuente_C8_23nov2026.md",
+      "bytes": 3472,
+      "sha256": "bc89c0916ef96bc1689e0c896a37a490f9e02e5accd9498dc924e9f625c4dcdb",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto2_informe_nueva_validacion.md",
+      "filename": "crypto2_informe_nueva_validacion.md",
+      "bytes": 3499,
+      "sha256": "ee62b49cfda55c24223ce192da38df88a48d8a089710ccd951a8b025f81e622e",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto2_nueva_prueba_23nov.md",
+      "filename": "crypto2_nueva_prueba_23nov.md",
+      "bytes": 4065,
+      "sha256": "c620f3cb5512fc826415ba9a6b21ba9f87afd67f47f2f07be1fcca9ec754588f",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto_puzzle2_avance_21_octubre.md",
+      "filename": "crypto_puzzle2_avance_21_octubre.md",
+      "bytes": 2688,
+      "sha256": "40eb90c6c0e56e254b01d37dc9802330b81f0db6a0e20c5c3ffa91c71dba7e75",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto_puzzle2_flash_informe.md",
+      "filename": "crypto_puzzle2_flash_informe.md",
+      "bytes": 3583,
+      "sha256": "ecc28c80eb20e531a0f4f05bfc576a494ceb2f843c419e47484196f6a08f7a19",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/crypto_puzzle2_informe_progreso_final.md",
+      "filename": "crypto_puzzle2_informe_progreso_final.md",
+      "bytes": 5042,
+      "sha256": "2673e6e1cf26d1c4e67c1e1fc924e9ed7f702721c6cb9065be4dda6f51f235fd",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_actualizacion_repeticion.md",
+      "filename": "puzzle2_actualizacion_repeticion.md",
+      "bytes": 2774,
+      "sha256": "9b3403210d797298426679a5017389326b009fd4e22dca91ea088eed854abe01",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_auditoria_nueva.md",
+      "filename": "puzzle2_auditoria_nueva.md",
+      "bytes": 4648,
+      "sha256": "a593864a439aecb2ec3e25f9a8430a0f6a8bb30225d34675788335890230ff41",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_avance_ciclos_y_marcador.md",
+      "filename": "puzzle2_avance_ciclos_y_marcador.md",
+      "bytes": 3278,
+      "sha256": "c23d2af39adcb4ff9d082815a1f31dbf759afd18c9fc73734fa33b4221a4a8b8",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_avance_estructural_16hex.md",
+      "filename": "puzzle2_avance_estructural_16hex.md",
+      "bytes": 3770,
+      "sha256": "bd4e72da3da0e5e4379f2627175b180e65b171e38981b974604a72f3696f8e96",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_estado_cuatro_partes_2026-10-21.md",
+      "filename": "puzzle2_estado_cuatro_partes_2026-10-21.md",
+      "bytes": 3122,
+      "sha256": "10f858a26d8f4c63518b2a20d88d4b72573387a2a6f1c41f7d643fa4eff23eea",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_reports/puzzle2_revision_critica_22oct.md",
+      "filename": "puzzle2_revision_critica_22oct.md",
+      "bytes": 6201,
+      "sha256": "1e0a5da5e5471dfbbfe444bb3130d0625c1a448a83c49c16e498c7a19f3f6b49",
+      "category": "previous_reports"
+    },
+    {
+      "path": "local_sources/previous_scripts/analisis_nuevo_puzzle2.py",
+      "filename": "analisis_nuevo_puzzle2.py",
+      "bytes": 2744,
+      "sha256": "8ac87b4ca86a16be381f24a4bcc3ce4143e02538f32ce107918a4535adc83405",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/audit_puzzle2_fontblind.py",
+      "filename": "audit_puzzle2_fontblind.py",
+      "bytes": 1884,
+      "sha256": "e511d69b0084df106e107a8d850744e12587530534433e14005e33bcce472df2",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/audit_puzzle2_seam.py",
+      "filename": "audit_puzzle2_seam.py",
+      "bytes": 1380,
+      "sha256": "05043deabbd23702ad8d460e7cebed2c2dd67aa3965023fea582638ef2ef3d8d",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/audit_puzzle2_seam_controls.py",
+      "filename": "audit_puzzle2_seam_controls.py",
+      "bytes": 1995,
+      "sha256": "1a05fd2018059ec08bbaa7d893efd99c7d4f093320c3ae7b6d4fedc58e63984b",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_C8_calibrated_column.py",
+      "filename": "crypto2_C8_calibrated_column.py",
+      "bytes": 2158,
+      "sha256": "ddafdf8169826fd54fea26d4e19b021acacb9c9ba34a3ff05aff49b8cd1a0305",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_aislar_6_franjas.py",
+      "filename": "crypto2_aislar_6_franjas.py",
+      "bytes": 2540,
+      "sha256": "7263b8cd376137ac90faf160790717e8632b1a59dd466a752e335530e2ece923",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_barrido_franga_5_6.py",
+      "filename": "crypto2_barrido_franga_5_6.py",
+      "bytes": 2984,
+      "sha256": "33e56913d7fdd705edc21b76c7c1ec80da6798df1beaa2149557717f537eb29a",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_compare_4v6.py",
+      "filename": "crypto2_compare_4v6.py",
+      "bytes": 2657,
+      "sha256": "67ddff4caf2e82a3fcdfe6fc4930459e163095ada449ef945db7b42dbda0f5dd",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_compare_5_7_8.py",
+      "filename": "crypto2_compare_5_7_8.py",
+      "bytes": 2570,
+      "sha256": "d1afb5358cd4c043a0bfd0339efb869b9c28087171965b95ae24ce78a23910ff",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_font_calibration.py",
+      "filename": "crypto2_font_calibration.py",
+      "bytes": 1980,
+      "sha256": "2b38926fb9c96bbc53247280cec9b79b2e38040f204260674e788aa9f27dbfbe",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_fonts_robustness.py",
+      "filename": "crypto2_fonts_robustness.py",
+      "bytes": 1763,
+      "sha256": "93cf237532ae4f2b7db09e1e4fd964fbf780dcd0bc61516963fbf33320a9d0e4",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_joint_vs_individual.py",
+      "filename": "crypto2_joint_vs_individual.py",
+      "bytes": 1665,
+      "sha256": "8d94581a45a3cad2ea32ffdcc86e25317dbfbfc15f1642f588d3fac394fee350",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_make_C8_comparison.py",
+      "filename": "crypto2_make_C8_comparison.py",
+      "bytes": 1661,
+      "sha256": "8ae92c4d2503cbd7cea573e2d1dd1e1719555c27d35d60c553c6aa8293bd1a58",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_make_results.py",
+      "filename": "crypto2_make_results.py",
+      "bytes": 1725,
+      "sha256": "83054a6f39453be13a22dd15365464653abba85aa09799496365d3b4ecaedac9",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_reconstruccion_comparativa_20261123.py",
+      "filename": "crypto2_reconstruccion_comparativa_20261123.py",
+      "bytes": 1578,
+      "sha256": "8f11c5273ff9b868c839bea2375f11b9f60dc62733d255a4aff2a12ee640af5b",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_seam_independent_20261123.py",
+      "filename": "crypto2_seam_independent_20261123.py",
+      "bytes": 1944,
+      "sha256": "7275b3d2cf75604acb6422b78c536ee69fadba754b7e5061ca0dfcab477fad9b",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_temporal_states_20261123.py",
+      "filename": "crypto2_temporal_states_20261123.py",
+      "bytes": 1329,
+      "sha256": "686870ad11ee2d87e6a4a6e1234c120e1ef8f5f8f8c965180e69d198627f2134",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_validacion_fuera_de_posicion4.py",
+      "filename": "crypto2_validacion_fuera_de_posicion4.py",
+      "bytes": 3265,
+      "sha256": "2eaf11435a4f7f9925ca0d7300f38ecd4f0beeabb2865e69d9c8ae9d2f589796",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/previous_scripts/crypto2_visualizar_franjas.py",
+      "filename": "crypto2_visualizar_franjas.py",
+      "bytes": 2846,
+      "sha256": "4125b98a7ae79c754c1e0d19a1469add744e929257337b153cc3fa068b5a76c7",
+      "category": "previous_scripts"
+    },
+    {
+      "path": "local_sources/user_images/image(4).png",
+      "filename": "image(4).png",
+      "bytes": 327441,
+      "sha256": "a39f3758006e45acc4a99e88305308d32bd52fec2b34b86357daf004ff592c25",
+      "category": "user_images"
+    },
+    {
+      "path": "local_sources/videos/Crypto Puzzle 1 Solved!.mp4",
+      "filename": "Crypto Puzzle 1 Solved!.mp4",
+      "bytes": 2254868,
+      "sha256": "ce516570a30121bda9ca5160cc86638f1d4bc79491e7cb7eda24f919f544eee0",
+      "category": "videos"
+    },
+    {
+      "path": "local_sources/videos/Solve The 2nd Crypto Puzzle  - Win 0.05 Ethereum - Part 1.mp4",
+      "filename": "Solve The 2nd Crypto Puzzle  - Win 0.05 Ethereum - Part 1.mp4",
+      "bytes": 5154597,
+      "sha256": "0acd2ee6c0992c6e34715d7d5035fc8389334437703e46e7488ec8c4cfe08507",
+      "category": "videos"
+    },
+    {
+      "path": "local_sources/videos/Solve The 2nd Crypto Puzzle - Win 0.05 Ethereum - Part 2.mp4",
+      "filename": "Solve The 2nd Crypto Puzzle - Win 0.05 Ethereum - Part 2.mp4",
+      "bytes": 5253414,
+      "sha256": "5b6d0ad71f6417a2fe4e26d9390cfcaf0f5832626b27ff8ba986d1d285c6174b",
+      "category": "videos"
+    }
+  ]
+}
