@@ -7,7 +7,7 @@ behaviors that the 2026-11-23 flash audit depended on:
     faked a "fifth line" in unsigned differencing);
   * line segmentation finds exactly the four text bands;
   * height-normalized IoU with shifts ranks identical glyphs above
-different ones.
+    different ones.
 """
 import importlib.util
 from pathlib import Path
