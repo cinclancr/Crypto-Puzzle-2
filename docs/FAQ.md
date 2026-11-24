@@ -30,10 +30,10 @@ are candidate *fragments* at best.
 
 **4. What fragments have been reproduced?**
 - Part 1 edge glyphs: `6A6B0860B4` (mechanic now code-verified; cells 4/9
-carry a documented B/8/D residual ambiguity; alternatives `6A6D0860D4`,
-`6A68086084`).
+  carry a documented B/8/D residual ambiguity; alternatives `6A6D0860D4`,
+  `6A68086084`).
 - Part 2 vertical column: `723504` (model-dependent; `723604` alternative;
-six-slot geometry is itself hypothesis-conditioned).
+  six-slot geometry is itself hypothesis-conditioned).
 - Part 2 mirrored card: `C8` (could be data or instruction).
 - Plus the historical Puzzle 1 key as the cryptographic control vector.
 
@@ -69,14 +69,14 @@ video author first (see `SECURITY.md`).
 
 **10. What are the highest-information-gain next steps?**
 1. Capture the two Puzzle 1 statement videos (`3l1jFa3Mw0s`,
-`hX-pOBj8VsI`; android player client reportedly works) and run the flash
-detector with a known ground truth as positive control.
+   `hX-pOBj8VsI`; android player client reportedly works) and run the flash
+   detector with a known ground truth as positive control.
 2. Same-font template pass on the Part 2 column using a font library that
-actually matches the column's face (the Puzzle 1 solution-screen font
-demonstrably does NOT match — IoU ≤ 0.27).
+   actually matches the column's face (the Puzzle 1 solution-screen font
+   demonstrably does NOT match — IoU ≤ 0.27).
 3. Rendition/archival hunt for unclipped pixels (the column is hard-cut at
-x=663; the edge glyphs are cut at the frame boundary; only a different
-crop or higher-resolution source can add real pixels).
+   x=663; the edge glyphs are cut at the frame boundary; only a different
+   crop or higher-resolution source can add real pixels).
 
 See `docs/RESEARCH_PLAN.md` for the full ranked experiment list and
 `docs/EXPERIMENT_LEDGER.md` for what already failed.
