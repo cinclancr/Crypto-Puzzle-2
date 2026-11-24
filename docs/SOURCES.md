@@ -53,10 +53,10 @@ watch pages / archive snapshots before citing either.
   characters `6A6B0860B4`" (matches our independent read), open status,
   last on-chain check 2026-08-16.
 - Tested ledger: https://github.com/floflo777/open-crypto-puzzles/blob/main/3-small-prizes/crypto-puzzles-2018-puzzle-2-0-05eth/analysis/tested.md
-  — 12-row negative/structural ledger on the 360p rendition: payload
-  glyphs are cut by the frame boundary; part 2 supplies no complementary
-  halves; C (0.771) and 8 (0.849) after flip; alternating-column components
-  are truncated; "external-info" reclassification (360p ceiling).
+  — 12-row negative/structural ledger on the 360p rendition: payload glyphs
+  are cut by the frame boundary; part 2 supplies no complementary halves;
+  C (0.771) and 8 (0.849) after flip; alternating-column components are
+  truncated; "external-info" reclassification (360p ceiling).
 - Issue #5 discussion: https://github.com/floflo777/open-crypto-puzzles/issues/5
   — diploux reads `6A6B0860B` (Didot) and `723504` (6 chars, "99% certain",
   vertical overlap described); timothy-barus: 19-frame lag via change
