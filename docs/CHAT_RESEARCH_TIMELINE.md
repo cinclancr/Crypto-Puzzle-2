@@ -17,7 +17,7 @@ This is an English reconciliation of the long prior conversation. It is not a cl
 - The two B glyphs can resemble D due to clipping 20 pixels from the central notch; both strings `6A6B0860B4` and `6A6D0860D4` were discussed. A local Didot fit favored B over D, but these comparisons used composited rather than fully original glyphs.
 - A control focused only on edge-pixel overlap yielded weak significance (p~0.10). A later selected-template pair vs 20,000 permutations gave 84.14% vs 77.42% random-mean and no random score higher, but this conditional test did not eliminate anchor/template-selection bias. Preserve both results.
 - A naive font-only blind classifier read `6A6B0860B1` instead of the proposed trailing `4`, illustrating why the last glyph must remain under audit.
-- The held `4` produced an unproven "four parts"/delimiter theory. It may simply be the final literal hex character.
+- The held `4` produced an unproven “four parts”/delimiter theory. It may simply be the final literal hex character.
 
 ## Part 2 mirrored card and last column
 
