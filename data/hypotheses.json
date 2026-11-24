@@ -1,0 +1,72 @@
+{
+  "status": "open",
+  "target": "0x1fa8Be9De5bBFE047C72dB8E8E3257128F7661ad",
+  "provenance": "Chat research through 2026-11-23; flash address read independently re-verified 2026-11-23 against on-chain escrow via signed-difference masking + same-font glyph adjudication",
+  "hypotheses": [
+    {
+      "id": "PART1_SEAM_10",
+      "value": "6A6B0860B4",
+      "classification": "replicated_candidate",
+      "limitations": "Fragment mechanic verified 2026-11-23: right-edge fragment of frame n = glyph LEFT portion, left-edge fragment of frame n+19 = glyph RIGHT portion (10/10 pairs at +19), identity-alignment join; cell 10 '4' structurally confirmed (proves join order); cells 1/3/7=6, 5/8=0, 6=8, 2=A multi-source; cells 4/9 B-vs-8-vs-D residual ambiguity (pixel profile: straight full-height left stem favors B; vision wavered B/8; synthetic IoU D 0.50-0.51 vs B 0.476-0.482); alternatives 6A6D0860D4 / 6A68086084 preserved; direction/position unknown",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "PART2_MIRROR_C8",
+      "value": "C8",
+      "classification": "strong_visual_interpretation",
+      "limitations": "Mirrored C and nearly symmetric 8; could be instruction or key data",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "PART2_COLUMN_6",
+      "value": "723504",
+      "classification": "model_conditioned_candidate",
+      "limitations": "C+A raw mask; six windows 75px apart, 116px height",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "PART2_COLUMN_ALT",
+      "value": "723604",
+      "classification": "lower_priority_alternative",
+      "limitations": "Noto Serif Display Medium font match from complete C8",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "FOUR_16_BLOCKS",
+      "value": "6A6B0860B4723504",
+      "classification": "speculative_assembly",
+      "limitations": "10+6 length exactly 16 but no verified contiguity or final key",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "ADDRESS_FLASH_ORDER",
+      "value": "2-4-1-3",
+      "classification": "verified_for_public_address_only",
+      "limitations": "Order 2-4-1-3 VERIFIED 2026-11-23 for the four-line public-address flash (frames 727-728) in Puzzle 1 solution video; still NOT proven for Puzzle 2 private-key fragments",
+      "cryptographically_verified": false,
+      "related": "docs/PUZZLE1_CONTROL.md; scripts/audit_puzzle1_flash.py"
+    },
+    {
+      "id": "FOUR_MARKER",
+      "value": "4",
+      "classification": "unverified_instruction",
+      "limitations": "Last glyph of Part1 remains; may be literal data",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "VIDEO_AAC_DIFFERENCE",
+      "value": "20.526-20.991s",
+      "classification": "observed_anomaly",
+      "limitations": "16 AAC packets differ; no decoded message",
+      "cryptographically_verified": false
+    },
+    {
+      "id": "PUZZLE1_FLASH_ADDRESS",
+      "value": "0x1FA8BE9DE5BBFE047C72DB8E8E3257128F7661AD",
+      "classification": "verified_observation",
+      "limitations": "Public address disclosure in Puzzle 1 solution video frames 727-728; verified 2026-11-23 via signed-diff masking (4 lines, brightening-only), 3-way glyph adjudication, same-font reference matching; equals on-chain escrow; NOT a private-key fragment",
+      "cryptographically_verified": false,
+      "note": "address only, not a key substring"
+    }
+  ]
+}
