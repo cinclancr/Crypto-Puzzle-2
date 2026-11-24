@@ -1,0 +1,1765 @@
+[
+  {
+    "line": 2,
+    "glyph_index_in_line": 1,
+    "x_orig": 1029,
+    "bbox_rot": [
+      235,
+      389,
+      251,
+      414
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 209,
+    "top5": [
+      {
+        "char": "0",
+        "font": "dejavu_serif",
+        "score": 0.786
+      },
+      {
+        "char": "0",
+        "font": "dejavu_sans",
+        "score": 0.76
+      },
+      {
+        "char": "D",
+        "font": "dejavu_bold",
+        "score": 0.725
+      },
+      {
+        "char": "0",
+        "font": "dejavu_mono",
+        "score": 0.715
+      },
+      {
+        "char": "D",
+        "font": "dejavu_mono",
+        "score": 0.701
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 2,
+    "x_orig": 980,
+    "bbox_rot": [
+      280,
+      389,
+      300,
+      413
+    ],
+    "h": 24,
+    "w": 20,
+    "px": 175,
+    "top5": [
+      {
+        "char": "X",
+        "font": "dejavu_serif",
+        "score": 0.714
+      },
+      {
+        "char": "X",
+        "font": "dejavu_bold",
+        "score": 0.701
+      },
+      {
+        "char": "X",
+        "font": "dejavu_sans",
+        "score": 0.685
+      },
+      {
+        "char": "X",
+        "font": "dejavu_mono",
+        "score": 0.678
+      },
+      {
+        "char": "1",
+        "font": "dejavu_bold",
+        "score": 0.352
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 3,
+    "x_orig": 942,
+    "bbox_rot": [
+      333,
+      389,
+      339,
+      413
+    ],
+    "h": 24,
+    "w": 6,
+    "px": 115,
+    "top5": [
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.405
+      },
+      {
+        "char": "X",
+        "font": "dejavu_bold",
+        "score": 0.349
+      },
+      {
+        "char": "4",
+        "font": "dejavu_serif",
+        "score": 0.342
+      },
+      {
+        "char": "A",
+        "font": "dejavu_bold",
+        "score": 0.329
+      },
+      {
+        "char": "3",
+        "font": "dejavu_bold",
+        "score": 0.326
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 4,
+    "x_orig": 892,
+    "bbox_rot": [
+      373,
+      389,
+      388,
+      413
+    ],
+    "h": 24,
+    "w": 15,
+    "px": 141,
+    "top5": [
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.768
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.711
+      },
+      {
+        "char": "F",
+        "font": "dejavu_serif",
+        "score": 0.676
+      },
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.664
+      },
+      {
+        "char": "F",
+        "font": "dejavu_bold",
+        "score": 0.658
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 5,
+    "x_orig": 848,
+    "bbox_rot": [
+      417,
+      389,
+      432,
+      412
+    ],
+    "h": 23,
+    "w": 15,
+    "px": 103,
+    "top5": [
+      {
+        "char": "A",
+        "font": "dejavu_serif",
+        "score": 0.479
+      },
+      {
+        "char": "A",
+        "font": "dejavu_bold",
+        "score": 0.428
+      },
+      {
+        "char": "A",
+        "font": "dejavu_sans",
+        "score": 0.425
+      },
+      {
+        "char": "A",
+        "font": "dejavu_mono",
+        "score": 0.408
+      },
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.376
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 6,
+    "x_orig": 800,
+    "bbox_rot": [
+      464,
+      389,
+      480,
+      413
+    ],
+    "h": 24,
+    "w": 16,
+    "px": 218,
+    "top5": [
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.646
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.611
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.607
+      },
+      {
+        "char": "6",
+        "font": "dejavu_serif",
+        "score": 0.508
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.486
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 7,
+    "x_orig": 752,
+    "bbox_rot": [
+      512,
+      389,
+      528,
+      413
+    ],
+    "h": 24,
+    "w": 16,
+    "px": 215,
+    "top5": [
+      {
+        "char": "B",
+        "font": "dejavu_sans",
+        "score": 0.691
+      },
+      {
+        "char": "B",
+        "font": "dejavu_mono",
+        "score": 0.686
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.636
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.599
+      },
+      {
+        "char": "B",
+        "font": "dejavu_serif",
+        "score": 0.581
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 8,
+    "x_orig": 704,
+    "bbox_rot": [
+      560,
+      389,
+      576,
+      414
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 149,
+    "top5": [
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.563
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.553
+      },
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.497
+      },
+      {
+        "char": "E",
+        "font": "dejavu_sans",
+        "score": 0.483
+      },
+      {
+        "char": "F",
+        "font": "dejavu_bold",
+        "score": 0.474
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 9,
+    "x_orig": 660,
+    "bbox_rot": [
+      605,
+      389,
+      621,
+      414
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 212,
+    "top5": [
+      {
+        "char": "9",
+        "font": "dejavu_bold",
+        "score": 0.691
+      },
+      {
+        "char": "0",
+        "font": "dejavu_bold",
+        "score": 0.687
+      },
+      {
+        "char": "9",
+        "font": "dejavu_sans",
+        "score": 0.683
+      },
+      {
+        "char": "9",
+        "font": "dejavu_serif",
+        "score": 0.664
+      },
+      {
+        "char": "9",
+        "font": "dejavu_mono",
+        "score": 0.66
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 10,
+    "x_orig": 608,
+    "bbox_rot": [
+      652,
+      389,
+      672,
+      413
+    ],
+    "h": 24,
+    "w": 20,
+    "px": 215,
+    "top5": [
+      {
+        "char": "D",
+        "font": "dejavu_mono",
+        "score": 0.799
+      },
+      {
+        "char": "D",
+        "font": "dejavu_serif",
+        "score": 0.737
+      },
+      {
+        "char": "D",
+        "font": "dejavu_sans",
+        "score": 0.679
+      },
+      {
+        "char": "0",
+        "font": "dejavu_serif",
+        "score": 0.677
+      },
+      {
+        "char": "D",
+        "font": "dejavu_bold",
+        "score": 0.664
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 11,
+    "x_orig": 560,
+    "bbox_rot": [
+      702,
+      389,
+      720,
+      414
+    ],
+    "h": 25,
+    "w": 18,
+    "px": 158,
+    "top5": [
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.689
+      },
+      {
+        "char": "F",
+        "font": "dejavu_serif",
+        "score": 0.62
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.619
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.61
+      },
+      {
+        "char": "B",
+        "font": "dejavu_serif",
+        "score": 0.609
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 12,
+    "x_orig": 516,
+    "bbox_rot": [
+      749,
+      389,
+      764,
+      414
+    ],
+    "h": 25,
+    "w": 15,
+    "px": 142,
+    "top5": [
+      {
+        "char": "3",
+        "font": "dejavu_bold",
+        "score": 0.481
+      },
+      {
+        "char": "5",
+        "font": "dejavu_serif",
+        "score": 0.432
+      },
+      {
+        "char": "5",
+        "font": "dejavu_bold",
+        "score": 0.431
+      },
+      {
+        "char": "5",
+        "font": "dejavu_mono",
+        "score": 0.425
+      },
+      {
+        "char": "3",
+        "font": "dejavu_serif",
+        "score": 0.417
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 13,
+    "x_orig": 468,
+    "bbox_rot": [
+      795,
+      389,
+      812,
+      413
+    ],
+    "h": 24,
+    "w": 17,
+    "px": 180,
+    "top5": [
+      {
+        "char": "B",
+        "font": "dejavu_sans",
+        "score": 0.681
+      },
+      {
+        "char": "B",
+        "font": "dejavu_mono",
+        "score": 0.639
+      },
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.579
+      },
+      {
+        "char": "B",
+        "font": "dejavu_serif",
+        "score": 0.572
+      },
+      {
+        "char": "F",
+        "font": "dejavu_serif",
+        "score": 0.569
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "glyph_index_in_line": 14,
+    "x_orig": 420,
+    "bbox_rot": [
+      844,
+      389,
+      860,
+      413
+    ],
+    "h": 24,
+    "w": 16,
+    "px": 217,
+    "top5": [
+      {
+        "char": "B",
+        "font": "dejavu_mono",
+        "score": 0.678
+      },
+      {
+        "char": "B",
+        "font": "dejavu_serif",
+        "score": 0.656
+      },
+      {
+        "char": "B",
+        "font": "dejavu_sans",
+        "score": 0.65
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.621
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.62
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 1,
+    "x_orig": 605,
+    "bbox_rot": [
+      658,
+      226,
+      675,
+      250
+    ],
+    "h": 24,
+    "w": 17,
+    "px": 160,
+    "top5": [
+      {
+        "char": "F",
+        "font": "dejavu_serif",
+        "score": 0.712
+      },
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.704
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.649
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.624
+      },
+      {
+        "char": "F",
+        "font": "dejavu_bold",
+        "score": 0.564
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 2,
+    "x_orig": 557,
+    "bbox_rot": [
+      704,
+      226,
+      724,
+      250
+    ],
+    "h": 24,
+    "w": 20,
+    "px": 220,
+    "top5": [
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.606
+      },
+      {
+        "char": "E",
+        "font": "dejavu_mono",
+        "score": 0.597
+      },
+      {
+        "char": "E",
+        "font": "dejavu_sans",
+        "score": 0.579
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.551
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.545
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 3,
+    "x_orig": 512,
+    "bbox_rot": [
+      752,
+      227,
+      768,
+      251
+    ],
+    "h": 24,
+    "w": 16,
+    "px": 222,
+    "top5": [
+      {
+        "char": "0",
+        "font": "dejavu_serif",
+        "score": 0.752
+      },
+      {
+        "char": "D",
+        "font": "dejavu_mono",
+        "score": 0.722
+      },
+      {
+        "char": "0",
+        "font": "dejavu_sans",
+        "score": 0.705
+      },
+      {
+        "char": "0",
+        "font": "dejavu_mono",
+        "score": 0.67
+      },
+      {
+        "char": "D",
+        "font": "dejavu_bold",
+        "score": 0.67
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 4,
+    "x_orig": 469,
+    "bbox_rot": [
+      798,
+      225,
+      814,
+      251
+    ],
+    "h": 26,
+    "w": 16,
+    "px": 155,
+    "top5": [
+      {
+        "char": "4",
+        "font": "dejavu_serif",
+        "score": 0.701
+      },
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.671
+      },
+      {
+        "char": "4",
+        "font": "dejavu_mono",
+        "score": 0.667
+      },
+      {
+        "char": "4",
+        "font": "dejavu_sans",
+        "score": 0.632
+      },
+      {
+        "char": "1",
+        "font": "dejavu_serif",
+        "score": 0.481
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 5,
+    "x_orig": 424,
+    "bbox_rot": [
+      842,
+      225,
+      856,
+      250
+    ],
+    "h": 25,
+    "w": 14,
+    "px": 141,
+    "top5": [
+      {
+        "char": "7",
+        "font": "dejavu_bold",
+        "score": 0.643
+      },
+      {
+        "char": "7",
+        "font": "dejavu_sans",
+        "score": 0.527
+      },
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.526
+      },
+      {
+        "char": "7",
+        "font": "dejavu_mono",
+        "score": 0.526
+      },
+      {
+        "char": "7",
+        "font": "dejavu_serif",
+        "score": 0.496
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 6,
+    "x_orig": 376,
+    "bbox_rot": [
+      885,
+      226,
+      904,
+      251
+    ],
+    "h": 25,
+    "w": 19,
+    "px": 137,
+    "top5": [
+      {
+        "char": "C",
+        "font": "dejavu_serif",
+        "score": 0.771
+      },
+      {
+        "char": "C",
+        "font": "dejavu_mono",
+        "score": 0.749
+      },
+      {
+        "char": "C",
+        "font": "dejavu_sans",
+        "score": 0.737
+      },
+      {
+        "char": "C",
+        "font": "dejavu_bold",
+        "score": 0.69
+      },
+      {
+        "char": "6",
+        "font": "dejavu_serif",
+        "score": 0.577
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 7,
+    "x_orig": 332,
+    "bbox_rot": [
+      934,
+      225,
+      948,
+      250
+    ],
+    "h": 25,
+    "w": 14,
+    "px": 145,
+    "top5": [
+      {
+        "char": "7",
+        "font": "dejavu_bold",
+        "score": 0.69
+      },
+      {
+        "char": "7",
+        "font": "dejavu_sans",
+        "score": 0.582
+      },
+      {
+        "char": "7",
+        "font": "dejavu_mono",
+        "score": 0.581
+      },
+      {
+        "char": "7",
+        "font": "dejavu_serif",
+        "score": 0.532
+      },
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.524
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 8,
+    "x_orig": 287,
+    "bbox_rot": [
+      978,
+      226,
+      993,
+      251
+    ],
+    "h": 25,
+    "w": 15,
+    "px": 214,
+    "top5": [
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.522
+      },
+      {
+        "char": "2",
+        "font": "dejavu_sans",
+        "score": 0.425
+      },
+      {
+        "char": "2",
+        "font": "dejavu_serif",
+        "score": 0.423
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.42
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.417
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "glyph_index_in_line": 9,
+    "x_orig": 236,
+    "bbox_rot": [
+      1024,
+      226,
+      1044,
+      250
+    ],
+    "h": 24,
+    "w": 20,
+    "px": 215,
+    "top5": [
+      {
+        "char": "D",
+        "font": "dejavu_mono",
+        "score": 0.776
+      },
+      {
+        "char": "D",
+        "font": "dejavu_sans",
+        "score": 0.706
+      },
+      {
+        "char": "D",
+        "font": "dejavu_serif",
+        "score": 0.697
+      },
+      {
+        "char": "0",
+        "font": "dejavu_serif",
+        "score": 0.643
+      },
+      {
+        "char": "D",
+        "font": "dejavu_bold",
+        "score": 0.611
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 1,
+    "x_orig": 922,
+    "bbox_rot": [
+      340,
+      468,
+      358,
+      493
+    ],
+    "h": 25,
+    "w": 18,
+    "px": 224,
+    "top5": [
+      {
+        "char": "B",
+        "font": "dejavu_serif",
+        "score": 0.609
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.604
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.59
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.542
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.522
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 2,
+    "x_orig": 877,
+    "bbox_rot": [
+      388,
+      469,
+      403,
+      494
+    ],
+    "h": 25,
+    "w": 15,
+    "px": 215,
+    "top5": [
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.593
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.591
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.557
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.516
+      },
+      {
+        "char": "B",
+        "font": "dejavu_mono",
+        "score": 0.506
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 3,
+    "x_orig": 829,
+    "bbox_rot": [
+      433,
+      469,
+      452,
+      493
+    ],
+    "h": 24,
+    "w": 19,
+    "px": 195,
+    "top5": [
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.685
+      },
+      {
+        "char": "E",
+        "font": "dejavu_sans",
+        "score": 0.659
+      },
+      {
+        "char": "E",
+        "font": "dejavu_mono",
+        "score": 0.655
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.625
+      },
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.581
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 4,
+    "x_orig": 784,
+    "bbox_rot": [
+      480,
+      469,
+      496,
+      494
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 210,
+    "top5": [
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.638
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.592
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.584
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.578
+      },
+      {
+        "char": "6",
+        "font": "dejavu_serif",
+        "score": 0.536
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 5,
+    "x_orig": 736,
+    "bbox_rot": [
+      528,
+      469,
+      544,
+      494
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 170,
+    "top5": [
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.566
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.562
+      },
+      {
+        "char": "E",
+        "font": "dejavu_sans",
+        "score": 0.537
+      },
+      {
+        "char": "E",
+        "font": "dejavu_mono",
+        "score": 0.523
+      },
+      {
+        "char": "E",
+        "font": "dejavu_serif",
+        "score": 0.509
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 6,
+    "x_orig": 691,
+    "bbox_rot": [
+      573,
+      469,
+      589,
+      493
+    ],
+    "h": 24,
+    "w": 16,
+    "px": 193,
+    "top5": [
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.601
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.587
+      },
+      {
+        "char": "3",
+        "font": "dejavu_serif",
+        "score": 0.575
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.523
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.52
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 7,
+    "x_orig": 645,
+    "bbox_rot": [
+      618,
+      468,
+      635,
+      494
+    ],
+    "h": 26,
+    "w": 17,
+    "px": 199,
+    "top5": [
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.522
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.51
+      },
+      {
+        "char": "2",
+        "font": "dejavu_mono",
+        "score": 0.435
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.402
+      },
+      {
+        "char": "2",
+        "font": "dejavu_sans",
+        "score": 0.395
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 8,
+    "x_orig": 602,
+    "bbox_rot": [
+      664,
+      469,
+      679,
+      495
+    ],
+    "h": 26,
+    "w": 15,
+    "px": 185,
+    "top5": [
+      {
+        "char": "6",
+        "font": "dejavu_mono",
+        "score": 0.498
+      },
+      {
+        "char": "6",
+        "font": "dejavu_bold",
+        "score": 0.496
+      },
+      {
+        "char": "6",
+        "font": "dejavu_sans",
+        "score": 0.493
+      },
+      {
+        "char": "6",
+        "font": "dejavu_serif",
+        "score": 0.451
+      },
+      {
+        "char": "0",
+        "font": "dejavu_bold",
+        "score": 0.429
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 9,
+    "x_orig": 558,
+    "bbox_rot": [
+      708,
+      469,
+      722,
+      493
+    ],
+    "h": 24,
+    "w": 14,
+    "px": 148,
+    "top5": [
+      {
+        "char": "7",
+        "font": "dejavu_bold",
+        "score": 0.8
+      },
+      {
+        "char": "7",
+        "font": "dejavu_sans",
+        "score": 0.69
+      },
+      {
+        "char": "7",
+        "font": "dejavu_mono",
+        "score": 0.681
+      },
+      {
+        "char": "7",
+        "font": "dejavu_serif",
+        "score": 0.67
+      },
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.511
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 10,
+    "x_orig": 521,
+    "bbox_rot": [
+      753,
+      469,
+      759,
+      493
+    ],
+    "h": 24,
+    "w": 6,
+    "px": 111,
+    "top5": [
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.494
+      },
+      {
+        "char": "4",
+        "font": "dejavu_serif",
+        "score": 0.439
+      },
+      {
+        "char": "4",
+        "font": "dejavu_mono",
+        "score": 0.412
+      },
+      {
+        "char": "1",
+        "font": "dejavu_serif",
+        "score": 0.391
+      },
+      {
+        "char": "1",
+        "font": "dejavu_bold",
+        "score": 0.38
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 11,
+    "x_orig": 473,
+    "bbox_rot": [
+      792,
+      469,
+      808,
+      494
+    ],
+    "h": 25,
+    "w": 16,
+    "px": 194,
+    "top5": [
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.481
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.475
+      },
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.459
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.453
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.392
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 12,
+    "x_orig": 428,
+    "bbox_rot": [
+      836,
+      468,
+      852,
+      494
+    ],
+    "h": 26,
+    "w": 16,
+    "px": 233,
+    "top5": [
+      {
+        "char": "8",
+        "font": "dejavu_sans",
+        "score": 0.652
+      },
+      {
+        "char": "8",
+        "font": "dejavu_serif",
+        "score": 0.647
+      },
+      {
+        "char": "8",
+        "font": "dejavu_mono",
+        "score": 0.642
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.622
+      },
+      {
+        "char": "B",
+        "font": "dejavu_bold",
+        "score": 0.554
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "glyph_index_in_line": 13,
+    "x_orig": 393,
+    "bbox_rot": [
+      884,
+      468,
+      887,
+      493
+    ],
+    "h": 25,
+    "w": 3,
+    "px": 73,
+    "top5": [
+      {
+        "char": "9",
+        "font": "dejavu_bold",
+        "score": 0.245
+      },
+      {
+        "char": "0",
+        "font": "dejavu_bold",
+        "score": 0.221
+      },
+      {
+        "char": "6",
+        "font": "dejavu_bold",
+        "score": 0.218
+      },
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.218
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.211
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 1,
+    "x_orig": 614,
+    "bbox_rot": [
+      654,
+      306,
+      666,
+      331
+    ],
+    "h": 25,
+    "w": 12,
+    "px": 90,
+    "top5": [
+      {
+        "char": "F",
+        "font": "dejavu_mono",
+        "score": 0.441
+      },
+      {
+        "char": "F",
+        "font": "dejavu_sans",
+        "score": 0.433
+      },
+      {
+        "char": "E",
+        "font": "dejavu_sans",
+        "score": 0.422
+      },
+      {
+        "char": "E",
+        "font": "dejavu_mono",
+        "score": 0.408
+      },
+      {
+        "char": "7",
+        "font": "dejavu_serif",
+        "score": 0.388
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 2,
+    "x_orig": 572,
+    "bbox_rot": [
+      698,
+      306,
+      709,
+      330
+    ],
+    "h": 24,
+    "w": 11,
+    "px": 79,
+    "top5": [
+      {
+        "char": "7",
+        "font": "dejavu_serif",
+        "score": 0.444
+      },
+      {
+        "char": "2",
+        "font": "dejavu_bold",
+        "score": 0.427
+      },
+      {
+        "char": "2",
+        "font": "dejavu_mono",
+        "score": 0.407
+      },
+      {
+        "char": "7",
+        "font": "dejavu_sans",
+        "score": 0.405
+      },
+      {
+        "char": "2",
+        "font": "dejavu_sans",
+        "score": 0.403
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 3,
+    "x_orig": 526,
+    "bbox_rot": [
+      733,
+      306,
+      754,
+      331
+    ],
+    "h": 25,
+    "w": 21,
+    "px": 246,
+    "top5": [
+      {
+        "char": "6",
+        "font": "dejavu_bold",
+        "score": 0.486
+      },
+      {
+        "char": "8",
+        "font": "dejavu_bold",
+        "score": 0.419
+      },
+      {
+        "char": "A",
+        "font": "dejavu_bold",
+        "score": 0.385
+      },
+      {
+        "char": "4",
+        "font": "dejavu_mono",
+        "score": 0.368
+      },
+      {
+        "char": "4",
+        "font": "dejavu_sans",
+        "score": 0.34
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 4,
+    "x_orig": 482,
+    "bbox_rot": [
+      784,
+      306,
+      799,
+      331
+    ],
+    "h": 25,
+    "w": 15,
+    "px": 213,
+    "top5": [
+      {
+        "char": "6",
+        "font": "dejavu_mono",
+        "score": 0.715
+      },
+      {
+        "char": "6",
+        "font": "dejavu_sans",
+        "score": 0.7
+      },
+      {
+        "char": "6",
+        "font": "dejavu_serif",
+        "score": 0.665
+      },
+      {
+        "char": "6",
+        "font": "dejavu_bold",
+        "score": 0.657
+      },
+      {
+        "char": "0",
+        "font": "dejavu_bold",
+        "score": 0.588
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 5,
+    "x_orig": 444,
+    "bbox_rot": [
+      829,
+      306,
+      836,
+      331
+    ],
+    "h": 25,
+    "w": 7,
+    "px": 107,
+    "top5": [
+      {
+        "char": "1",
+        "font": "dejavu_bold",
+        "score": 0.601
+      },
+      {
+        "char": "1",
+        "font": "dejavu_serif",
+        "score": 0.54
+      },
+      {
+        "char": "X",
+        "font": "dejavu_bold",
+        "score": 0.49
+      },
+      {
+        "char": "3",
+        "font": "dejavu_bold",
+        "score": 0.489
+      },
+      {
+        "char": "1",
+        "font": "dejavu_mono",
+        "score": 0.474
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 6,
+    "x_orig": 393,
+    "bbox_rot": [
+      868,
+      305,
+      888,
+      330
+    ],
+    "h": 25,
+    "w": 20,
+    "px": 169,
+    "top5": [
+      {
+        "char": "A",
+        "font": "dejavu_serif",
+        "score": 0.783
+      },
+      {
+        "char": "A",
+        "font": "dejavu_mono",
+        "score": 0.661
+      },
+      {
+        "char": "A",
+        "font": "dejavu_sans",
+        "score": 0.644
+      },
+      {
+        "char": "A",
+        "font": "dejavu_bold",
+        "score": 0.607
+      },
+      {
+        "char": "X",
+        "font": "dejavu_bold",
+        "score": 0.447
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "glyph_index_in_line": 7,
+    "x_orig": 341,
+    "bbox_rot": [
+      928,
+      307,
+      939,
+      329
+    ],
+    "h": 22,
+    "w": 11,
+    "px": 101,
+    "top5": [
+      {
+        "char": "3",
+        "font": "dejavu_bold",
+        "score": 0.469
+      },
+      {
+        "char": "7",
+        "font": "dejavu_bold",
+        "score": 0.436
+      },
+      {
+        "char": "7",
+        "font": "dejavu_mono",
+        "score": 0.384
+      },
+      {
+        "char": "3",
+        "font": "dejavu_mono",
+        "score": 0.38
+      },
+      {
+        "char": "4",
+        "font": "dejavu_bold",
+        "score": 0.377
+      }
+    ]
+  }
+]
